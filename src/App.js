@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <h1>
-          test
+          EIEI
         </h1>
       </header>
     </div>
